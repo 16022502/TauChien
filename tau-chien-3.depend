@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1526027484 source:d:\code c++\tau-chien-3\main.cpp
+	"draw.h"
+
+1526020514 d:\code c++\tau-chien-3\quang.h
+	<iostream>
+	<string>
+
+1526020731 source:d:\code c++\tau-chien-3\quang.cpp
+	"quang.h"
+
+1526032576 source:d:\code c++\tau-chien-3\draw.cpp
+	"draw.h"
+
+1526032065 d:\code c++\tau-chien-3\draw.h
+	<iostream>
+	<string>
+
